@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "classmap": ["libs/"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
