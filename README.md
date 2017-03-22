@@ -1,7 +1,7 @@
 Chef Steps Test
 ===================
 
-This solution solved using PHP and tested using PHP UnitTesting
+This prooblem solved using PHP and tested using PHP UnitTesting
 
 ### Install Composer
 > Please Refers to Doc https://getcomposer.org/doc/00-intro.md
