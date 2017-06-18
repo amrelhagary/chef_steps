@@ -1,4 +1,4 @@
-Chef Steps Test
+Remove duplicates
 ===================
 
 This problem solved using PHP and tested using PHP UnitTesting
